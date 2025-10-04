@@ -6,7 +6,8 @@ title: <Your Name>
 ## About Me
 
 
-![Profile Picture]({{ "/assets/mam839_headshot.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ /assets/mam839_headshot.jpg | relative_url }}){: class="profile-image"}
+
 !["Profile Picture"](assets/mam839_headshot.jpg)
 
  
