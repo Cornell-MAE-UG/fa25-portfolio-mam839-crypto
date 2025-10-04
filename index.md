@@ -1,10 +1,5 @@
----
-layout: default
-title: Marcos Martinez
----
 
 ## About Me
-
 
 !["Profile Picture"](assets/mam839_headshot.jpg)
 
