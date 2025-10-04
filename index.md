@@ -6,12 +6,9 @@ title: <Your Name>
 ## About Me
 
 
-![Profile Picture]({{ /assets/mam839_headshot.jpg | relative_url }}){: class="profile-image"}
-
 !["Profile Picture"](assets/mam839_headshot.jpg)
 
- 
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is Marcos Martinez, and I am a Mechanical Engineering student at Cornell University passionate about designing, building, and testing mechanical systems for aerospace and robotics applications. My experience spans from developing high-performance quadcopters, where I applied aerodynamics and structural mechanics principles to optimize flight stability and durability, to leading the design of a scout drone that supports autonomous Mars rover missions. Within Cornell’s Space Domain Awareness Laboratory, I am implementing a cold-gas propulsion system for spacecraft attitude control, working directly on thruster placement, nozzle performance, and system integration. I thrive in hands-on environments that combine CAD modeling, rapid prototyping, and  machining, and I am motivated by the challenge of turning mechanical concepts into reliable hardware for real-world mission applications.
 
 Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
 
