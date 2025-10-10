@@ -1,8 +1,8 @@
 ---
-layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+layout: Project
+title: First Person View Drone
+description: Project Team CAD Project
+technologies: Onshape, 3D-Printing, and CNC Machining 
 image: /assets/images/radio-machine-cad.jpg
 ---
 
