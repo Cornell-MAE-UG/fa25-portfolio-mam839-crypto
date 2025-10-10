@@ -1,11 +1,12 @@
 ---
 layout: default
-title: <Marcos Martinez> - Resume
+title: <Marcos Martinez> - CV
 permalink: /cv/
 ---
-## Resume
+## CV
 
-[Download my CV]("assets/Resume.pdf") in PDF format.
+[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+
 
 
 **Email:** [mam839@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +516-376-4139
