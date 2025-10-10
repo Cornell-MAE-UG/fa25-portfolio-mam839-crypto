@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: <Marcos Martinez>
+---
 ## About Me
 
 <img src="assets/images/mam839_headshot.jpg" alt="Profile Picture" width="600" height="400">
